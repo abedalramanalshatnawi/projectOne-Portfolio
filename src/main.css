@@ -63,7 +63,7 @@ margin-left: 2em;
 background-color: white;    
 display: grid;
 width: 90%;
-margin: 1em;
+margin: 5%;
 grid-template-columns: 1fr 1fr 1fr;
 
 grid-template-areas: 
